@@ -1,3 +1,9 @@
+# Vedhika's First CS193 Homework
+
+- I feel like this class will be helpful for me to learn to code
+- I like that there is only one mandatory class per week
+- I also like that there are PSO sessions, they will be really helpful
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
